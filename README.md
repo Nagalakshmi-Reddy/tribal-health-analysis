@@ -37,6 +37,7 @@ This project focuses on evaluating disparities in healthcare access among Schedu
 
 - [Statistical Profile of Scheduled Tribes in India – NDAP Portal](https://ndap.niti.gov.in/collection/Statistical%20Profile%20of%20Scheduled%20Tribes%20in%20India%20-%202013/68)
 - Datasets Used:
+
   Rural Health Infrastructure -Norms and Level of Achievements
   Utilization of Integrated Child Development Services (ICDS) services during pregnancy and while breastfeeding.
   Utilization of Integrated Child Development Services (ICDS) services- Any services and supplementary food.
