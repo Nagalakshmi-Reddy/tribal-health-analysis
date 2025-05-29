@@ -46,7 +46,7 @@ This project focuses on evaluating disparities in healthcare access among Schedu
 ## 📣 Feedback or Collaboration?
 
 Feel free to raise an issue or connect with me on LinkedIn if you'd like to collaborate on data-for-good projects or recommend improvements.
-LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/nagalakshmi-965934221)
+LinkedIn: [linkedin.com/in/nagalakshmi](https://www.linkedin.com/in/nagalakshmi-965934221)
 
 
 
